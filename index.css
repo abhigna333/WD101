@@ -1,0 +1,20 @@
+td,th{
+    padding-left: 10px;
+    width: 100px;
+    text-align: left;
+}
+
+#form-table{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 100px;
+}
+
+#form{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    align-items: flex-start;
+    justify-content: left;
+}
